@@ -41,7 +41,7 @@
                 <div >
                  
                                 
-                                <h1 style="color: white;font-size:30px">Student Management System</h1>
+                                <h1 style="color: white;font-size:30px">Student Management System with Laravel</h1>
                             </a>
                         </div>
                     </div>
